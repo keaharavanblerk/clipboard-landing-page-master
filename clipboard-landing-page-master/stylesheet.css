@@ -1,0 +1,70 @@
+#logo{
+    margin-left: 40%;
+}
+
+.header-box{
+    margin-left: -1%;
+    text-align:center ;
+} 
+
+
+.box {
+    display: flex;
+    justify-content: center;
+
+}
+
+.middle-paragraph{
+    margin-left: 5%;
+
+}
+.space{
+    width: 100px;
+}
+.box2 {
+    text-align: center;
+display: flex;
+margin-left:-15% ;
+
+}
+
+.small-box{
+    margin-left: 4%;
+}
+
+.heading{
+text-align: center;
+margin-left:-18%;
+}
+
+.logos{
+display: flex;
+margin-left: 6%;
+}
+
+.main-footer{
+display: flex;
+}
+
+.main-footer2{
+display: flex;
+}
+
+.btn1{
+color: white;
+background-color:#5bd3c1 ;
+width: 150PX;
+height: 30PX;
+border-radius:30PX ;
+border: none;
+}
+
+.btn2{
+color:white ;
+background-color: #8896ff;
+width:150px ;
+height:30px ;
+border-radius:30px ;
+border: none;
+
+}
